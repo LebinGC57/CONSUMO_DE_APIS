@@ -1,0 +1,16 @@
+C:\Users\LEBINSON GARCIA\Desktop\Tarea aPIs\aPls\aPls\bin\Debug\net9.0-windows\aPls.exe
+C:\Users\LEBINSON GARCIA\Desktop\Tarea aPIs\aPls\aPls\bin\Debug\net9.0-windows\aPls.deps.json
+C:\Users\LEBINSON GARCIA\Desktop\Tarea aPIs\aPls\aPls\bin\Debug\net9.0-windows\aPls.runtimeconfig.json
+C:\Users\LEBINSON GARCIA\Desktop\Tarea aPIs\aPls\aPls\bin\Debug\net9.0-windows\aPls.dll
+C:\Users\LEBINSON GARCIA\Desktop\Tarea aPIs\aPls\aPls\bin\Debug\net9.0-windows\aPls.pdb
+C:\Users\LEBINSON GARCIA\Desktop\Tarea aPIs\aPls\aPls\obj\Debug\net9.0-windows\aPls.Form1.resources
+C:\Users\LEBINSON GARCIA\Desktop\Tarea aPIs\aPls\aPls\obj\Debug\net9.0-windows\aPls.csproj.GenerateResource.cache
+C:\Users\LEBINSON GARCIA\Desktop\Tarea aPIs\aPls\aPls\obj\Debug\net9.0-windows\aPls.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LEBINSON GARCIA\Desktop\Tarea aPIs\aPls\aPls\obj\Debug\net9.0-windows\aPls.AssemblyInfoInputs.cache
+C:\Users\LEBINSON GARCIA\Desktop\Tarea aPIs\aPls\aPls\obj\Debug\net9.0-windows\aPls.AssemblyInfo.cs
+C:\Users\LEBINSON GARCIA\Desktop\Tarea aPIs\aPls\aPls\obj\Debug\net9.0-windows\aPls.csproj.CoreCompileInputs.cache
+C:\Users\LEBINSON GARCIA\Desktop\Tarea aPIs\aPls\aPls\obj\Debug\net9.0-windows\aPls.dll
+C:\Users\LEBINSON GARCIA\Desktop\Tarea aPIs\aPls\aPls\obj\Debug\net9.0-windows\refint\aPls.dll
+C:\Users\LEBINSON GARCIA\Desktop\Tarea aPIs\aPls\aPls\obj\Debug\net9.0-windows\aPls.pdb
+C:\Users\LEBINSON GARCIA\Desktop\Tarea aPIs\aPls\aPls\obj\Debug\net9.0-windows\aPls.genruntimeconfig.cache
+C:\Users\LEBINSON GARCIA\Desktop\Tarea aPIs\aPls\aPls\obj\Debug\net9.0-windows\ref\aPls.dll
